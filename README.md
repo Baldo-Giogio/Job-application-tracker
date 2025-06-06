@@ -47,10 +47,10 @@ A simple, interactive job application tracker built using **Streamlit** and **SQ
 
 ## 📁 File Structure
 ``` bash
-├── app.py              # Main Streamlit app
-├── Job_apps.db         # SQLite database (auto-created)
-├── requirements.txt    # Python dependencies
-├── README.md           # This file
+├── job_application_tracker.py              # Main Streamlit app
+├── Job_apps.db                             # SQLite database (auto-created)
+├── requirements.txt                        # Python dependencies
+├── README.md                               # This file
 ```
 
 ## 📌 Notes
