@@ -59,10 +59,14 @@ A simple, interactive job application tracker built using **Streamlit** and **SQ
 - You can clear all data by deleting the Jobs_apps.db file
 
 ## 🧪 Example Usage
--Add job applications with details
--Search for a role like "backend"
--Filter only "Interviewing" status
--Update status after receiving an offer
+
+-Add job applications with details.
+
+-Search for a role like "backend".
+
+-Filter only "Interviewing" status.
+
+-Update status after receiving an offer.
 
 ## Author
 Baldo Giogio Otu-Quayson
